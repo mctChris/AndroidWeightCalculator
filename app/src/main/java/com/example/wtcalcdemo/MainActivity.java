@@ -92,6 +92,9 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }
 
+//                github
+
+
                 txtViewResults.setText(formattedOutputWeight);
             }
         });
